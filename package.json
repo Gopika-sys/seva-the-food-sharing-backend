@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mansisindhu/Food-donation-backend.git"
+    "url": "git+https://github.com/gopika-sys/Food-donation-backend.git"
   },
-  "author": "Mansi Sindhu",
+  "author": "Gopika",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mansisindhu/Food-donation-backend/issues"
+    "url": "https://github.com/gopika-sys/Food-donation-backend/issues"
   },
-  "homepage": "https://github.com/mansisindhu/Food-donation-backend#readme",
+  "homepage": "https://github.com/gopika-sys/Food-donation-backend#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-redis": "^6.0.0",
